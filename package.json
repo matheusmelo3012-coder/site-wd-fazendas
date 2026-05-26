@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "webpack-dev-server --open",
     "build": "cross-env NODE_ENV=production webpack"
@@ -31,4 +35,5 @@
     "webpack-dev-server": "3.1.4"
   },
   "dependencies": {}
+  
 }
