@@ -55,6 +55,7 @@ function renderizarOsCards() {
     const fazendas = [
         {
             titulo: "Fazenda em Pimenta - MG",
+            cidade: "pimenta",
             descricao: "1.238 hectares",
             preco: "R$ 45.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712862/pimenta1_behytq.jpg", 
@@ -68,6 +69,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Alpinópolis - MG",
+            cidade: "alpinopolis",
             descricao: "13 hectares",
             preco: "R$ 1.300.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712737/alp131_hq9jvx.jpg", 
@@ -85,6 +87,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Piumhi - MG",
+            cidade: "piumhi",
             descricao: "129 hectares",
             preco: "R$ 17.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712853/pi1291_pd95ml.jpg", 
@@ -102,6 +105,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Formiga - MG",
+            cidade: "formiga",
             descricao: "1.488 hectares",
             preco: "R$ 200.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712793/f14881_prmozu.jpg", 
@@ -119,6 +123,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Fortaleza de Minas - MG",
+            cidade: "fortaleza-de-minas",
             descricao: "33 hectares",
             preco: "R$ 2.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712790/f331_qtwadd.jpg", 
@@ -136,6 +141,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Bambuí - MG",
+            cidade: "bambui",
             descricao: "212 hectares",
             preco: "R$ 25.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712740/b2121_zzhh9w.jpg", 
@@ -153,6 +159,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Bambuí - MG",
+            cidade: "bambui",
             descricao: "229 hectares",
             preco: "R$ 30.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712742/b2291_m2fwnb.jpg", 
@@ -168,6 +175,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Passos - MG",
+            cidade: "passos",
             descricao: "29,04 hectares",
             preco: "R$ 2.600.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712837/p291_adykws.jpg", 
@@ -182,6 +190,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Prédio Comercial em Nova Resende - MG",
+            cidade: "nova-resende",
             descricao: "6 salas comerciais",
             preco: "R$ 3.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712866/salanr1_y5j7pi.jpg", 
@@ -191,6 +200,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Cássia - MG",
+            cidade: "cassia",
             descricao: "68 alqueires",
             preco: "R$ 20.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712748/ca681_mo04d8.jpg", 
@@ -208,6 +218,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Loteamento em Nova Resende - MG",
+            cidade: "nova-resende",
             descricao: "6,5 alqueires",
             preco: "R$ 11.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712818/ltnr1_lmfefv.jpg", 
@@ -221,6 +232,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Passos - MG",
+            cidade: "passos",
             descricao: "28,7 hectares",
             preco: "R$ 3.300.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712835/p281_qfrfa7.jpg", 
@@ -238,6 +250,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Delfinópolis - MG",
+            cidade: "delfinopolis",
             descricao: "82 hectares",
             preco: "R$ 15.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712787/d821_zevyvy.jpg", 
@@ -255,6 +268,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Sinop - MT",
+            cidade: "sinop",
             descricao: "3.600 hectares",
             preco: "R$ 1.800.000 sacas de soja",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712826/mt36001_fb09wz.jpg", 
@@ -266,6 +280,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Itaci - MG",
+            cidade: "itaci",
             descricao: "65 hectares",
             preco: "R$ 12.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712806/i651_h09aqx.jpg", 
@@ -282,6 +297,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Boa Esperança - MG - Proibido Postar",
+            cidade: "boa-esperanca",
             descricao: "475 hectares",
             preco: "R$ 170.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712746/be4751_s6bqom.jpg", 
@@ -297,6 +313,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em São Pedro da União - MG",
+            cidade: "sao-pedro-da-uniao",
             descricao: "10 hectares",
             preco: "R$ 3.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712873/spu101_svkdio.jpg", 
@@ -309,6 +326,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "77 alqueires",
             preco: "R$ 13.800.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712843/p771_bowjcg.jpg", 
@@ -326,6 +344,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Piumhi - MG",
+            cidade: "piumhi",
             descricao: "167 hectares",
             preco: "R$ 8.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712855/pi1671_gbhnvx.jpg", 
@@ -343,6 +362,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Passos/Alpinópolis - MG",
+            cidade: "passos",
             descricao: "4 alqueires",
             preco: "R$ 1.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712849/pa41_kqzmub.jpg", 
@@ -360,6 +380,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Bambuí - MG",
+            cidade: "bambui",
             descricao: "88 hectares",
             preco: "R$ 5.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712744/ba881_fvslek.jpg", 
@@ -377,6 +398,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em São João Batista do Glória - MG",
+            cidade: "sao-joao-batista-do-gloria",
             descricao: "75 hectares",
             preco: "R$ 8.400.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712866/sjbg1_qj4wwv.jpg", 
@@ -394,6 +416,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "5 Chácaras em Nova Resende - MG",
+            cidade: "nova-resende",
             descricao: "600m² cada",
             preco: "R$ 800.000,00 as 5 chácaras",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712766/chnr1_wgqccg.jpg", 
@@ -403,6 +426,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Jaíba - MG",
+            cidade: "jaiba",
             descricao: "960 hectares",
             preco: "R$ 12.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712814/jaiba1_gztpzx.jpg", 
@@ -419,6 +443,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Carmo do Rio Claro - MG",
+            cidade: "carmo-rio-claro",
             descricao: "10 alqueires",
             preco: "R$ 1.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712773/crc101_hqbx39.jpg", 
@@ -435,6 +460,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Conceição Aparecida - MG",
+            cidade: "conceicao-aparecida",
             descricao: "145 hectares",
             preco: "R$ 21.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712750/ca1451_qmaopq.jpg", 
@@ -451,7 +477,8 @@ function renderizarOsCards() {
             descricaoLonga: "🌱 FAZENDA PRODUTIVA À VENDA – EXCELENTE OPORTUNIDADE AGRÍCOLA EM CONCEIÇÃO APARECIDA/MG 🌿\n\nApresentamos uma fazenda de alto padrão, ideal para investidores e produtores que buscam produtividade, estrutura e localização estratégica.\nCom excelente aproveitamento agrícola, essa propriedade está pronta para operar com múltiplas culturas e oferecer retorno imediato.\n\n📍 Localização Privilegiada\n• Situada em Conceição Aparecida/MG\n• Fica a 3 km do trevo de Conceição Aparecida, indo do Carmo para Aparecida\n• Apenas 2 km de estrada de terra – acesso fácil e ótima logística\n\n📐 Área Total: 145 hectares\n• 54 hectares com café em plena produção – 221 mil pés plantados\n• 48 hectares de lavoura branca\n• 38 hectares com eucalipto e pastagens\n• 5 hectares de mata ciliar preservada\n• Solo de terra de cultura – fértil e de alta produtividade\n• Rio corta a propriedade – abundância hídrica durante todo o ano\n\n⚙️ Infraestrutura Completa\n• Energia trifásica\n• Casa sede ampla, moderna e confortável\n• Topografia favorável para mecanização total da lavoura\n\n✅ Diferenciais da Propriedade:\n• Diversificação produtiva: café, grãos, eucalipto e pecuária\n• Pronta para operação imediata\n• Alto potencial de retorno agrícola\n\n📞 Agende sua visita:\nEntre em contato pelo número (35) 99819-5673 (Celular/WhatsApp) e conheça de perto essa grande oportunidade no agronegócio.\n\n💰 Valor: R$ 21.000.000,00\n\n#wdfazendas\n#fazendas\n#agronegocio\n#agroetudo\n#antigasfazendas"
         },
         {
-            titulo: "Fazenda em São Basílio do Paraíso/Jacuí - MG",
+            titulo: "Fazenda em São Sebastião do Paraíso/Jacuí - MG",
+            cidade: "sao-sebastiao-do-paraíso",
             descricao: "37 alqueires",
             preco: "R$ 10.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712876/ssp371_h9oqbr.jpg", 
@@ -469,9 +496,10 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em São João Batista do Glória",
+            cidade: "sao-joao-batista-do-gloria",
             descricao: "245 hectares",
             preco: "R$ 17.000.000,00",
-            imagens: ["imgs/https://res.cloudinary.com/dtgqktctl/image/upload/v1779712870/sjbg2451_u8losh.jpg", 
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712870/sjbg2451_u8losh.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712871/sjbg2452_seh2rm.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712871/sjbg2453_yxtjjq.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712871/sjbg2454_gojxd8.jpg", 
@@ -486,6 +514,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Delfinópolis - MG",
+            cidade: "delfinopolis",
             descricao: "58 hectares",
             preco: "R$ 18.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712785/d581_fnvyxp.jpg", 
@@ -503,6 +532,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em São João Batista do Glória - MG",
+            cidade: "sao-joao-batista-do-gloria",
             descricao: "98 hectares",
             preco: "R$ 6.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712868/sjbg981_vblohm.jpg", 
@@ -520,6 +550,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Carmo do Rio Claro/Conceição Aparecida - MG - Anderson B. Esperança",
+            cidade: "carmo-rio-claro",
             descricao: "513 hectares",
             preco: "R$ 50.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712777/crc5131_xzy1jy.jpg", 
@@ -537,6 +568,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Varjão de Minas - MG (Captação: Rogerio)",
+            cidade: "varjao-de-minas",
             descricao: "495 hectares",
             preco: "R$ 17.325.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712888/varjao4951_mf1b7a.jpg", 
@@ -554,6 +586,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "86,488 hectares",
             preco: "R$ 6.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712830/p86_41_vxv6ir.jpg", 
@@ -571,6 +604,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Fortaleza de Minas - MG",
+            cidade: "fortaleza-de-minas",
             descricao: "19 alqueires",
             preco: "R$ 1.200.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712796/fm191_lwdrio.jpg", 
@@ -582,6 +616,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Fortaleza de Minas - MG",
+            cidade: "fortaleza-de-minas",
             descricao: "14 alqueires",
             preco: "R$ 1.100.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712795/fm141_a4vwla.jpg", 
@@ -596,6 +631,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Itaú de Minas - MG (Captação: Matheus)",
+            cidade: "itau-de-minas",
             descricao: "14 alqueires",
             preco: "R$ 2.800.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712810/itau141_i5gi5i.jpg", 
@@ -612,6 +648,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Linha das Águas - Passos - MG",
+            cidade: "passos",
             descricao: "13 alqueires",
             preco: "R$ 3.250.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712833/p131_lltznz.jpg", 
@@ -628,6 +665,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Delfinópolis - MG - Proibido Postar",
+            cidade: "delfinopolis",
             descricao: "57 alqueires",
             preco: "R$ 40.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712784/d571_h917oj.jpg", 
@@ -645,6 +683,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Guapé - MG",
+            cidade: "guape",
             descricao: "82 alqueires",
             preco: "R$ 30.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712799/guape821_zixgov.jpg", 
@@ -659,6 +698,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Ribas do Rio Pardo - MS",
+            cidade: "ribas-do-rio-pardo",
             descricao: "3.100 hectares",
             preco: "R$ 93.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712823/ms31001_jrbhry.jpg", 
@@ -674,6 +714,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Manga - MG",
+            cidade: "manga",
             descricao: "4.000 hectares",
             preco: "R$ 23.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712819/manga1_tlcrqg.jpg", 
@@ -690,6 +731,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Varginha/Paraguaçu - MG - Proibido Postar",
+            cidade: "varginha-paraguacu",
             descricao: "648 hectares",
             preco: "R$ 200.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712852/paraguacu6481_klhnih.jpg", 
@@ -703,6 +745,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Piumhi - MG - Proibido Postar",
+            cidade: "piumhi",
             descricao: "234 hectares",
             preco: "R$ 60.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712857/pi2341_g1o1ib.png", 
@@ -715,6 +758,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Três Corações - MG - João Fagundes",
+            cidade: "tres-coracoes",
             descricao: "87 hectares",
             preco: "R$ 12.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712886/tc871_lnr80q.png", 
@@ -727,18 +771,8 @@ function renderizarOsCards() {
             descricaoLonga: "🌱 FAZENDA À VENDA – TRÊS CORAÇÕES/MG ☕🐄\n\nExcelente propriedade rural localizada no município de Três Corações/MG, a apenas 8 km da cidade, 25 km de Varginha/MG e somente 900 metros do asfalto, com acesso fácil e logístico privilegiado.\n\n🔹 Área total: 87 hectares\n🔹 Altitude: média de 990 metros\n🔹 Energia elétrica: 40 kW instalados\n🔹 Topografia e recursos hídricos: propriedade com excelente disponibilidade de água, com potencial para irrigação de toda a fazenda\n\n☕ Cafeicultura em produção e expansão:\n\n87 mil pés de café das variedades Catuaí e Arara, com 4 e 5 anos, em excelente estágio produtivo\n\nCapacidade imediata para plantio de mais 200 mil pés de café, tornando a fazenda altamente escalável e rentável\n\n🏡 Benfeitorias completas:\n\nExcelente casa sede\n\nCasas de colono\n\nPiscina\n\nSecador de café\n\nTulha\n\nGalpões para máquinas e implementos\n\nRancho\n\nCurral com estrutura de ordenha, possibilitando atividade leiteira integrada\n\n📍 Propriedade extremamente bem localizada, com forte vocação para café de qualidade, pecuária e projetos de irrigação, ideal tanto para produção quanto para investimento patrimonial.\n\n💰 Valor: R$ 12.000.000,00\n\n📞 Mais informações sob consulta.\nOportunidade rara na região do Sul de Minas Gerais."
         },
         {
-            titulo: "Fazenda em Três Corações - MG - João Fagundes",
-            descricao: "34 alqueires",
-            preco: "R$ 13.000.000,00",
-            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712885/tc341_of4u38.jpg", 
-                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712886/tc342_nqswdc.jpg", 
-                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712886/tc343_suohf9.jpg", 
-                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712886/tc344_ppjc4y.jpg"],
-            cultura: "cafe",
-            descricaoLonga: "🌿 FAZENDA DE CAFÉ À VENDA – TRÊS CORAÇÕES/MG 🌿\n\n💰 Valor: R$ 13.000.000,00\n📐 Área total: 34 alqueires\n📍 Localização estratégica:\n• Apenas 1 km da Rodovia Fernão Dias (sendo 700 m de estrada de terra)\n• 1 km do Parque Industrial de Três Corações\n• 25 km de Varginha/MG\n\n☕ Potencial Cafeeiro de Alto Nível\n• Altitude mínima de 950 metros, ideal para cafés especiais\n• Aproximadamente 80.000 pés de café em produção\n• Estimativa de 700 sacas na próxima colheita\n• Lavoura com variedades modernas, entre 1 e 4 anos\n• Área com potencial para até 300.000 pés, com colheita mecanizada e irrigada\n\n💧 Recursos Hídricos Abundantes\n• 6 nascentes\n• Abastecimento por gravidade em toda a propriedade\n• Poço artesiano com vazão de 15.000 litros/hora\n• 3 represas com peixes (tilápias e trairão)\n\n🏡 Infraestrutura Completa\n• Propriedade sem servidão ou passagem de terceiros\n• Sede confortável com paisagismo cinematográfico:\n– 4 quartos (sendo 1 suíte)\n– Cozinha ampla\n– Fogão e forno a lenha\n– Churrasqueira e área gourmet\n– Piscina e ampla área de lazer\n• 1 casa para funcionário\n• Pomar formado\n\n🚜 Estrutura Produtiva\n• 2 barracões com estrutura metálica\n• Secador rotativo Palini Alves (15.000 litros) com tulha completa\n• Terreiro de concreto com 2.000 m²\n• Energia elétrica trifásica – 37 kVA\n\n🐂 Pecuária e Apoio\n• 2 currais concretados com tronco e embarcador\n• Confinamento para até 300 bois\n• Estrutura de ordenha com fosso\n\n✨ Propriedade completa, altamente produtiva e com excelente localização, ideal para investidores do agronegócio, cafeicultura de alto padrão e integração lavoura-pecuária."
-        },
-        {
             titulo: "Fazenda em Caldas - MG - João Fagundes",
+            cidade: "caldas",
             descricao: "315 hectares",
             preco: "R$ 14.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712753/caldas3152_h7mz9r.png", 
@@ -752,6 +786,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Cordislândia - MG - João Fagundes",
+            cidade: "cordislandia",
             descricao: "32,65 alqueires",
             preco: "R$ 8.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712771/cord32_651_tvdh3w.png", 
@@ -767,6 +802,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Itajubá - MG - João Fagundes",
+            cidade: "itajuba",
             descricao: "179 hectares",
             preco: "R$ 9.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712808/itajuba1791_z0f5bm.jpg", 
@@ -784,6 +820,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Sul de Minas - MG - Anderson B. Esperança",
+            cidade: "sul-de-minas",
             descricao: "63 alqueires",
             preco: "R$ 30.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712878/sulMinas631_tkpnqp.jpg", 
@@ -801,6 +838,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Cristais - MG - Anderson B. Esperança",
+            cidade: "cristais",
             descricao: "348 hectares",
             preco: "R$ 40.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712780/cristais3481_mdkvoo.jpg", 
@@ -816,6 +854,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Sul de Minas - MG - Anderson B. Esperança",
+            cidade: "sul-de-minas",
             descricao: "4.800 hectares",
             preco: "R$ 300.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712883/sulminas48001_r7g02e.jpg", 
@@ -833,6 +872,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Sul de Minas - MG - Anderson B. Esperança",
+            cidade: "sul-de-minas",
             descricao: "965 hectares",
             preco: "R$ 55.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712880/sulminas9651_op70fs.jpg", 
@@ -850,6 +890,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Cristais - MG - Anderson B. Esperança",
+            cidade: "cristais",
             descricao: "700 hectares",
             preco: "R$ 70.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712781/cristais7001_fhs5hg.jpg", 
@@ -865,6 +906,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Guapé - MG",
+            cidade: "guape",
             descricao: "61 hectares",
             preco: "R$ 4.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712797/guape611_scgbzq.jpg", 
@@ -881,6 +923,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Cássia - MG - Anderson B. Esperança",
+            cidade: "cassia",
             descricao: "202 alqueires",
             preco: "R$ 32.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712759/cassia2021_uciltw.jpg", 
@@ -898,6 +941,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Cachoeira em Delfinópolis - MG",
+            cidade: "delfinopolis",
             descricao: "63 hectares",
             preco: "R$ 7.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712764/ch631_mmifkb.jpg", 
@@ -915,6 +959,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Piumhi - MG - Proibido Postar",
+            cidade: "piumhi",
             descricao: "470 hectares",
             preco: "R$ 30.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712860/pi4701_dhs9nx.png", 
@@ -928,6 +973,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Piumhi - MG - Proibido Postar",
+            cidade: "piumhi",
             descricao: "420 hectares",
             preco: "R$ 50.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712859/pi4201_c2wtgh.png", 
@@ -942,6 +988,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Conceição Aparecida/Carmo do Rio Claro - MG - Proibido Postar",
+            cidade: "conceicao-aparecida",
             descricao: "17 alqueires",
             preco: "R$ 4.200.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712769/conc171_nozlri.png", 
@@ -955,6 +1002,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Vargem Bonita - MG",
+            cidade: "vargem-bonita",
             descricao: "545 alqueires",
             preco: "R$ 66.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712890/vb5451_roxzcn.jpg", 
@@ -972,6 +1020,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Janaúba - MG",
+            cidade: "janauba",
             descricao: "1.800 hectares",
             preco: "R$ 12.600.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712816/janauba18001_aj0ru6.jpg", 
@@ -986,6 +1035,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Vargem Bonita - MG",
+            cidade: "vargem-bonita",
             descricao: "1.548,61 hectares",
             preco: "R$ 46.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712892/vb15481_nwmid0.png", 
@@ -1003,6 +1053,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Planalto da Serra - MT",
+            cidade: "planalto-da-serra",
             descricao: "2.500 hectares",
             preco: "R$ 250 sacas de soja / hectare",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712863/planalto25001_zl0mhg.jpg", 
@@ -1018,6 +1069,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Carmo do Rio Claro - MG",
+            cidade: "carmo-do-rio-claro",
             descricao: "2 hectares",
             preco: "R$ 1.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712757/carmo21_rwn1a8.png", 
@@ -1035,6 +1087,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Cachoeira em Capitólio - MG",
+            cidade: "capitolio",
             descricao: "45 hectares",
             preco: "R$ 4.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712766/chcapitolio1_j9babf.jpg", 
@@ -1044,6 +1097,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "40 alqueires",
             preco: "R$ 10.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712841/p401_lu81nw.jpg", 
@@ -1060,6 +1114,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "39 alqueires",
             preco: "R$ 10.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712838/p391_msalij.png", 
@@ -1077,6 +1132,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "162 hectares",
             preco: "R$ 34.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712845/p1621_chmv9u.png", 
@@ -1091,6 +1147,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Carmo do Rio Claro/Ilicínea - MG",
+            cidade: "carmo-do-rio-claro",
             descricao: "27 alqueires",
             preco: "R$ 6.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712775/crc271_ibofjy.jpg", 
@@ -1108,6 +1165,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Alpinópolis - MG",
+            cidade: "alpinopolis",
             descricao: "21,3 alqueires",
             preco: "R$ 6.900.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712735/alp21_31_bsjpf0.jpg", 
@@ -1122,6 +1180,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Jacuí - MG",
+            cidade: "jacui",
             descricao: "11 alqueires",
             preco: "R$ 3.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712812/jac111_yvs2jr.jpg", 
@@ -1136,6 +1195,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Sul de Minas - MG",
+            cidade: "sul-de-minas",
             descricao: "8 alqueires",
             preco: "R$ 2.800.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712865/represa1_hdtbmw.jpg", 
@@ -1146,6 +1206,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Monte Santo de Minas - MG",
+            cidade: "monte-santo-de-minas",
             descricao: "24,2 hectares",
             preco: "R$ 6.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712821/ms24_21_lca94u.jpg", 
@@ -1163,6 +1224,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Conselheiro Lafaiete - MG",
+            cidade: "conselheiro-lafaiete",
             descricao: "121,7 hectares",
             preco: "R$ 5.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712767/cl121_71_nkqcg2.jpg", 
@@ -1180,6 +1242,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
             descricao: "360 hectares",
             preco: "R$ 35.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712846/p3601_x90chg.png", 
@@ -1197,6 +1260,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Almenara - MG",
+            cidade: "almenara",
             descricao: "96,8 hectares",
             preco: "R$ 1.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712734/almenara1_hzkvlf.jpg", 
@@ -1214,6 +1278,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em São José da Barra - MG",
+            cidade: "sao-jose-da-barra",
             descricao: "24,5 alqueires",
             preco: "R$ 8.575.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712826/nbarra24_51_qvaocb.jpg", 
@@ -1229,6 +1294,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Nova Resende - MG",
+            cidade: "nova-resende",
             descricao: "26 hectares",
             preco: "R$ 5.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712828/nr261_o9llgn.jpg", 
@@ -1247,6 +1313,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Capitólio - MG",
+            cidade: "capitolio",
             descricao: "20 alqueires",
             preco: "R$ 1.800.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712755/capitolio201_i0uzpi.jpg", 
@@ -1264,6 +1331,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Itaú de Minas - MG",
+            cidade: "itau-de-minas",
             descricao: "2,8 alqueires",
             preco: "R$ 1.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712803/i2_81_frjkil.jpg", 
@@ -1281,6 +1349,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em São Sebastião do Paraíso - MG",
+            cidade: "sao-sebastiao-do-paraiso",
             descricao: "5 alqueires",
             preco: "R$ 1.00.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712874/ssp51_ltz7ba.jpg", 
@@ -1296,6 +1365,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Guarani de Goiás - GO",
+            cidade: "guarani-de-goias",
             descricao: "1.000 hectares",
             preco: "R$ 14.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712801/guarani1_juojyk.jpg", 
@@ -1313,6 +1383,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Cachoeira em São João Batista do Glória - MG",
+            cidade: "sao-joao-batista-do-gloria",
             descricao: "44 hectares",
             preco: "R$ 3.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712762/ch441_rgmouf.jpg", 
@@ -1326,10 +1397,19 @@ function renderizarOsCards() {
         }
     ];
 
-    // Filtra o array com base na seleção do usuário
-    const fazendasFiltradas = culturaSelecionada === "todas" 
-        ? fazendas 
-        : fazendas.filter(f => f.cultura === culturaSelecionada);
+    const culturaSelecionada = document.getElementById("filtro-cultura").value;
+    const cidadeSelecionada = document.getElementById("filtro-cidade").value;
+
+    // Filtra o array com base na cultura + cidade
+    const fazendasFiltradas = fazendas.filter(f => {
+        const matchCultura =
+            culturaSelecionada === "todas" || f.cultura === culturaSelecionada;
+
+        const matchCidade =
+            cidadeSelecionada === "todas" || f.cidade === cidadeSelecionada;
+
+        return matchCultura && matchCidade;
+    });
 
     // Salva globalmente para o escutador de cliques encontrar
     fazendasGlobais = fazendasFiltradas;
@@ -1442,16 +1522,11 @@ function vincularCliquesCarrossel(container) {
 }
 
 function inicializarFiltro() {
-    const selectFiltro = document.getElementById("filtro-cultura");
-    if (selectFiltro) {
-        const novoSelect = selectFiltro.cloneNode(true);
-        selectFiltro.parentNode.replaceChild(novoSelect, selectFiltro);
+    document.getElementById("filtro-cultura")
+        .addEventListener("change", renderizarOsCards);
 
-        novoSelect.addEventListener("change", (e) => {
-            culturaSelecionada = e.target.value;
-            renderizarOsCards(); 
-        });
-    }
+    document.getElementById("filtro-cidade")
+        .addEventListener("change", renderizarOsCards);
 }
 
 let imagensDoModalAtual = [];
