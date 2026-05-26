@@ -13,14 +13,8 @@ module.exports = {
         port: 9000,
     },
     optimization: {
-        minimizer: [
-            new TerserPlugin({
-                cache: true,
-                parallel: true,
-                sourceMap: true
-            }),
-            new OptimizeCSSAssetsPlugin({})
-        ]
+        minimize: true,
+        minimizer: [new TerserPlugin()],
     },
     output: {
         filename: 'app.js',
