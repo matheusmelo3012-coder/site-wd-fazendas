@@ -266,3 +266,6 @@ main, .main {
     margin: 0 !important;
 }
 
+label[for="filtro-cidade"] {
+    margin-right: 10px !important; 
+}
