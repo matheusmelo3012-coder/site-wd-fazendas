@@ -478,7 +478,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em São Sebastião do Paraíso/Jacuí - MG",
-            cidade: "sao-sebastiao-do-paraiso",
+            cidade: "paraiso",
             descricao: "37 alqueires",
             preco: "R$ 10.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712876/ssp371_h9oqbr.jpg", 
@@ -731,7 +731,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Varginha/Paraguaçu - MG - Proibido Postar",
-            cidade: "varginha-paraguacu",
+            cidade: "paraguacu",
             descricao: "648 hectares",
             preco: "R$ 200.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712852/paraguacu6481_klhnih.jpg", 
