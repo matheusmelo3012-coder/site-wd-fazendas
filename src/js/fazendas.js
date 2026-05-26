@@ -478,7 +478,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em São Sebastião do Paraíso/Jacuí - MG",
-            cidade: "sao-sebastiao-do-paraíso",
+            cidade: "sao-sebastiao-do-paraiso",
             descricao: "37 alqueires",
             preco: "R$ 10.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712876/ssp371_h9oqbr.jpg", 
