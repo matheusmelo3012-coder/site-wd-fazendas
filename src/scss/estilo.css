@@ -265,7 +265,3 @@ main, .main {
     z-index: 9999 !important;
     margin: 0 !important;
 }
-
-label[for="filtro-cidade"] {
-    margin-right: 10px !important; 
-}
