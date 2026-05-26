@@ -1,0 +1,267 @@
+/* No seu estilo.css */
+
+/* Garante que o container de fazendas (id) use a largura total */
+#fazendas-container {
+    width: 100%;
+}
+
+/* O card deve ser bloco, não flex, para que o conteúdo não se alinhe verticalmente */
+.card {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.carrossel-container {
+    position: relative;
+    width: 100% !important;
+    height: 180px; /* Reduzi um pouco para teste */
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+.carrossel-container .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important; /* Essencial para a imagem ficar bonita */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.carrossel-container .slide.ativo {
+    opacity: 1;
+    position: relative !important; /* Imprescindível para o flexbox ver que ela ocupa espaço se necessário */
+}
+
+/* Garante que o corpo do card não esmague o texto */
+.card-body {
+    padding: 15px;
+    display: block !important;
+    width: 100% !important;
+}
+
+.card-title, .card-text, .card-body strong {
+    display: block !important;
+    width: 100% !important;
+    text-align: left; /* Garante alinhamento à esquerda */
+    margin-bottom: 5px;
+    color: #333;
+    letter-spacing: normal; /* Garante que as letras não se afastem */
+    line-height: 1.4; /* Garante bom espaçamento entre linhas */
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.seta {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 100;
+}
+.seta.anterior { left: 10px; }
+.seta.proximo { right: 10px; }
+
+/* Força o container do Bootstrap a permitir que os cards quebrem linha e usem o espaço real */
+#fazendas-container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    width: 100% !important;
+    justify-content: center !important;
+}
+
+/* Impede o card de ser esmagado pelo Flexbox pai */
+#fazendas-container .col-md-4 {
+    flex-shrink: 0 !important;
+    min-width: 300px !important; /* Tamanho mínimo ideal para o card respirar */
+    width: 33.33% !important;
+}
+
+/* Garante que o card se comporte como bloco interno */
+.card {
+    display: block !important;
+    width: 100% !important;
+}
+
+.carrossel-container {
+    position: relative;
+    width: 100% !important;
+    height: 200px !important; /* Altura fixa para a imagem */
+    overflow: hidden;
+}
+
+.carrossel-container .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: none; /* Esconde todas as imagens por padrão */
+}
+
+/* Apenas a imagem com a classe 'ativo' aparece */
+.carrossel-container .slide.ativo {
+    display: block !important;
+}
+
+/* --- CORREÇÃO DO LAYOUT ESMAGADO --- */
+
+/* Força a fileira de fazendas a se comportar como uma linha verdadeira e quebrar os cards para baixo */
+#fazendas-container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    width: 100% !important;
+    justify-content: center !important;
+}
+
+/* Define um tamanho fixo mínimo confortável para as colunas respirarem */
+#fazendas-container .card-item-galeria {
+    flex: 0 0 auto !important;
+    width: 320px !important; /* Largura ideal para o card expandir lateralmente */
+    max-width: 100% !important;
+    padding: 10px !important;
+}
+
+/* Faz o corpo do card se comportar como bloco comum, impedindo alinhamentos verticais esquisitos */
+#fazendas-container .card {
+    display: block !important;
+    width: 100% !important;
+}
+
+#fazendas-container .card-body {
+    display: block !important;
+    width: 100% !important;
+    padding: 15px !important;
+    text-align: left !important;
+}
+
+#fazendas-container .card-title, 
+#fazendas-container .card-text, 
+#fazendas-container .card-body strong {
+    display: block !important;
+    width: 100% !important;
+    letter-spacing: normal !important;
+    white-space: normal !important;
+    text-align: left !important;
+}
+
+/* --- ESTRUTURA DO CARROSSEL --- */
+.carrossel-container {
+    position: relative !important;
+    width: 100% !important;
+    height: 200px !important; /* Altura padrão para a exibição da foto */
+    overflow: hidden !important;
+    background-color: #eaeaea;
+}
+
+.carrossel-container .slide {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
+/* Estilização básica das setas sobrepostas à imagem */
+.seta {
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    background-color: rgba(0, 0, 0, 0.6) !important;
+    color: #fff !important;
+    border: none !important;
+    border-radius: 50% !important;
+    width: 36px !important;
+    height: 36px !important;
+    cursor: pointer !important;
+    z-index: 10 !important;
+    font-size: 16px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.seta.anterior { left: 10px !important; }
+.seta.proximo { right: 10px !important; }
+
+#fazendas-container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    width: 100% !important;
+}
+
+.card-item-galeria {
+    min-width: 290px !important;
+    max-width: 350px !important;
+    width: 100% !important;
+}
+
+/* Remove qualquer altura fixa forçada na tag main e na galeria */
+main.main, 
+.main,
+.container.mt-5 {
+    height: auto !important;
+    min-height: 0 !important;
+    padding-bottom: 40px; /* Um espacinho leve antes do footer apenas por estética */
+}
+
+/* Garante que o jumbotron e o container de fazendas liberem o espaço sobressalente */
+.jumbotron {
+    margin-bottom: 0 !important;
+}
+
+#fazendas-container {
+    height: auto !important;
+    min-height: 0 !important;
+}
+
+/* --- FIXANDO O RODAPÉ NA BASE PARA PROJETOS DINÂMICOS --- */
+
+/* Força o body a ocupar o espaço visual inteiro da janela do navegador */
+html, body {
+    height: 100% !important;
+    margin: 0;
+    padding: 0;
+    background-color: #e3f7fa !important; /* Força o fundo azulado cobrir tudo */
+}
+
+/* O container principal que segura tudo */
+main, .main {
+    display: block !important;
+    min-height: calc(100vh - 120px) !important; /* Força o meio a ter quase a altura da tela toda */
+    padding-bottom: 60px !important; /* Abre espaço para o rodapé não cobrir o card */
+    box-sizing: border-box !important;
+}
+
+/* Transforma o rodapé em uma barra presa na base absoluta da janela do navegador */
+.footer {
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 50px !important; /* Altura exata do seu rodapé cinza */
+    z-index: 9999 !important;
+    margin: 0 !important;
+}

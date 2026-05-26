@@ -1,0 +1,141 @@
+.jumbotron{
+    background-color: #fff;
+    margin: 0;
+}
+
+.jumbotron .jumbotron-heading{
+    font-weight: 300;
+    
+}
+
+.logo{
+    border-radius: 50%;
+}
+
+.card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 2px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 350px; 
+    box-sizing: border-box;
+}
+
+/* A janela visível do carrossel */
+.carrossel-container {
+    position: relative;
+    width: 100%;
+    height: 200px; /* Altura do seu carrossel */
+    overflow: hidden; /* Esconde as fotos que não estão ativas */
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+/* A faixa que segura todas as fotos lado a lado */
+.carrossel-slides {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.4s ease-in-out; /* Efeito suave de deslizar */
+}
+
+/* Cada imagem individual */
+.carrossel-slides .card-img {
+    flex: 0 0 100%; /* Cada foto ocupa 100% da largura do container */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Estilização das setas (botões) */
+.seta {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px 12px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 50%;
+    z-index: 10;
+    transition: background 0.3s;
+}
+
+.seta:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.anterior { left: 10px; }
+.proximo { right: 10px; }
+
+.nome-cidade {
+    font-size: 18px; /* Subimos um pouquinho já que o card agora é maior */
+    margin: 0 0 10px 0;
+    white-space: normal;     
+    word-break: break-word;  
+    overflow-wrap: break-word;               
+    
+    /* REMOVIDO o font-weight: bold daqui para podermos controlar no HTML */
+    font-weight: normal; 
+}
+
+/* Nova regra para destacar APENAS o nome da cidade, se você quiser */
+.nome-cidade strong {
+    font-weight: bold;
+}
+
+.card img{
+    width: 100%;
+    display: block;
+    height: 180px;
+}
+
+.conteudo{
+    padding: 20px 0;
+}
+
+.conteudo h2{
+    margin: 0;
+    font-size: 24px;
+    color: #222;
+}
+
+.conteudo p{
+    margin: 0 0 6px 0;
+    color: #555;
+    font-size: 16px;
+}
+
+.conteudo .preco{
+    font-weight: bold;
+    color: #222;
+}
+
+.main, .jumbotron{
+    background-color: lightcyan;    
+}
+
+.imagem-container{
+    height: 220px;
+    background: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem-card{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+
+
+
+
+
+
