@@ -265,3 +265,7 @@ main, .main {
     z-index: 9999 !important;
     margin: 0 !important;
 }
+
+label.form-label.fw-bold.mb-0.me-2 {
+    margin-right: 10px;
+}
