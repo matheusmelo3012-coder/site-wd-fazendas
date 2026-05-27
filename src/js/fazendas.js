@@ -1445,6 +1445,18 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1779905338/olhosd_agua1113_zepf1a.png"],
             cultura: "sitio",
             descricaoLonga: "🌿 SÍTIO À VENDA – OLHOS D’ÁGUA | DELFINÓPOLIS/MG 🌿\n\nExcelente oportunidade para quem busca tranquilidade, produtividade e contato direto com a natureza, em uma das regiões mais valorizadas da Serra da Canastra!\n\n💰 Valor: R$ 2.500.000,00\n\n📍 Localização privilegiada\n• Ao lado da Rodovia BR-464\n• Aos pés da Serra da Canastra (potencial turístico incrível)\n\n📐 Área total\n• 4,75 alqueires (aprox. 11,50 hectares)\n• 11,50 hectares mecanizáveis\n• Topografia plana e aproveitamento excelente\n\n💧 Recursos hídricos abundantes\n• Riacho dentro da propriedade\n• Córrego de excelente volume\n• 3 lagos de peixe\n• Sistema de irrigação completo (atende lavouras e piquetes)\n\n🌱 Estrutura produtiva\n• 14 piquetes irrigados (manejo rotacionado de gado)\n• 2,5 hectares de milho para silagem\n• Curral completo com sistema de ordenha\n• Tanque de resfriamento (750 litros)\n• Casa de implementos\n\n🏡 Casa sede\n• 3 dormitórios\n• Sala\n• Banheiro\n• Varanda com garagem\n\n🔒 Outros diferenciais\n• Propriedade toda cercada com arame galvanizado\n• Terra fértil, plana e pronta para produção\n• Ideal para pecuária, agricultura ou turismo rural\n\n💎 Sítio completo, produtivo e pronto para gerar renda imediata!\n\n📲 Entre em contato para mais informações ou agendamento de visita.",
+        },
+        {
+            titulo: "Fazenda em Poços de Caldas / São Sebastião da Grama",
+            cidade: "poços-de-caldas",
+            descricao: "314,77 hectares",
+            preco: "R$ 30.000.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779907547/po%C3%A7os3142_pdnewo.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779907547/po%C3%A7os3143_cyuctw.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779907547/po%C3%A7os3144_d4q2u3.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779907548/po%C3%A7os3145_vzdrbw.jpg"],
+            cultura: "cafe",
+            descricaoLonga: "🌋 Fazenda à Venda – Região de Poços de Caldas/MG e São Sebastião da Grama/SP\n\n📐 Área: 314,77 ha (130 alqueires)\n☕ Produção: 180 mil pés de café no cinturão vulcânico — café de alto valor\n🚜 Potencial: até 500 mil pés mecanizados\n🏡 Estrutura completa: casa sede, casas de funcionários, lavador, despolpador, terreiro suspenso, secador, tulhas, oficina e escritório\n📍 Localização privilegiada\n💰 Valor: R$ 30.000.000\n📞 Estuda oferta",
         }
     ];
 
