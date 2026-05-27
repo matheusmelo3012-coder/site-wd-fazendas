@@ -1361,7 +1361,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em São Sebastião do Paraíso - MG",
-            cidade: "sao-sebastiao-do-paraiso",
+            cidade: "paraiso",
             descricao: "5 alqueires",
             preco: "R$ 1.00.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712874/ssp51_ltz7ba.jpg", 
