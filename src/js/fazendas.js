@@ -263,7 +263,7 @@ function renderizarOsCards() {
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712789/d828_hpi6f2.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712789/d829_ogpw1k.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712790/d8210_sldsmb.jpg"],
-            cultura: "plantio",
+            cultura: "dupla aptidao",
             descricaoLonga: "🌿 FAZENDA À VENDA – UM VERDADEIRO PARAÍSO NA TERRA 🌿\n\nVende-se uma propriedade única, com 82 hectares de terra fértil e versátil, ideal para plantio, pecuária ou até mesmo um grande empreendimento imobiliário.\n\n💧 O grande diferencial? São 7 km de represa, proporcionando paisagens deslumbrantes, abundância em água e inúmeras possibilidades de exploração turística e produtiva.\n\n📍 Localizada em Delfinópolis – MG, aos pés da Serra da Canastra, região conhecida por sua beleza natural, cachoeiras e o famoso \"mar de Minas\".\n\n💰 Valor: R$ 15.000.000,00\n📌 Negociações abertas – proprietário faz condições.\n\n✨ Uma oportunidade rara para quem busca investir em um lugar dos sonhos!\n\n#serradacanastra #mardeminas #delfinopolis #agronaopara #minasgerais #antigasfazendas"
         },
         {
