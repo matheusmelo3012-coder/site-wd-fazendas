@@ -443,7 +443,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Sítio em Carmo do Rio Claro - MG",
-            cidade: "carmo-rio-claro",
+            cidade: "carmo-do-rio-claro",
             descricao: "10 alqueires",
             preco: "R$ 1.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712773/crc101_hqbx39.jpg", 
