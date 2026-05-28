@@ -1245,7 +1245,7 @@ function renderizarOsCards() {
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_74_pogcet.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_75_fvdzh7.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_76_c0e2x0.jpg", 
-                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_77_vfsq9r.jpgg",
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_77_vfsq9r.jpg",
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712768/cl121_78_pxfu5x.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712769/cl121_79_emagz3.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712769/cl121_710_jrxlkf.jpg"],
