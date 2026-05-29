@@ -920,7 +920,7 @@ function renderizarOsCards() {
             titulo: "Fazenda em Guapé - MG",
             cidade: "guape",
             descricao: "61 hectares",
-            preco: "R$ 4.000.000,00",
+            preco: "R$ 4.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712797/guape611_scgbzq.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712798/guape612_cwhavv.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712798/guape613_bbmmn9.jpg", 
