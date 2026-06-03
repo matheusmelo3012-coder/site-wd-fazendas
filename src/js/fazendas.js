@@ -314,7 +314,7 @@ function renderizarOsCards() {
         {
             titulo: "Sítio em São Pedro da União - MG",
             cidade: "sao-pedro-da-uniao",
-            descricao: "10 hectares",
+            descricao: "20 hectares",
             preco: "R$ 3.500.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712873/spu101_svkdio.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712873/spu102_wu9fr0.jpg", 
