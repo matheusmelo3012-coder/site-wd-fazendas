@@ -1327,7 +1327,7 @@ function renderizarOsCards() {
             titulo: "Sítio em Itaú de Minas - MG",
             cidade: "itau-de-minas",
             descricao: "2,8 alqueires",
-            preco: "R$ 1.500.000,00",
+            preco: "R$ 1.700.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712803/i2_81_frjkil.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712803/i2_82_ubnhlo.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712804/i2_83_igdcz7.jpg", 
@@ -1339,7 +1339,7 @@ function renderizarOsCards() {
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712805/i2_89_coepwr.jpg", 
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779712805/i2_810_dodopt.jpg"],
             cultura: "sitio",
-            descricaoLonga: "🌿 SÍTIO À VENDA – ITAÚ DE MINAS/MG 🌿\n\nExcelente oportunidade para quem busca tranquilidade, lazer e contato com a natureza 🌄\n\n📍 Localizado em Itaú de Minas/MG, a apenas 4 km do asfalto\n📐 Área de 2,8 alqueires\n\n💧 Propriedade rica em água, com represa\n🏡 Casa sede toda varandada, ideal para descanso e convivência\n🍊 Pomar com grande variedade de frutas\n🔥 Cozinha externa com tradicional fogão à lenha\n🎉 Amplo salão para confraternizações e eventos\n\nUm lugar perfeito tanto para lazer quanto para investimento rural, com fácil acesso e ótima estrutura.\n\n💰 Valor: R$ 1.500.000,00",
+            descricaoLonga: "🌿 SÍTIO À VENDA – ITAÚ DE MINAS/MG 🌿\n\nExcelente oportunidade para quem busca tranquilidade, lazer e contato com a natureza 🌄\n\n📍 Localizado em Itaú de Minas/MG, a apenas 4 km do asfalto\n📐 Área de 2,8 alqueires\n\n💧 Propriedade rica em água, com represa\n🏡 Casa sede toda varandada, ideal para descanso e convivência\n🍊 Pomar com grande variedade de frutas\n🔥 Cozinha externa com tradicional fogão à lenha\n🎉 Amplo salão para confraternizações e eventos\n\nUm lugar perfeito tanto para lazer quanto para investimento rural, com fácil acesso e ótima estrutura.\n\n💰 Valor: R$ 1.700.000,00",
         },
         {
             titulo: "Sítio em São Sebastião do Paraíso - MG",
