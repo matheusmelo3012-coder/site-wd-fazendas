@@ -224,8 +224,8 @@ function renderizarOsCards() {
             descricaoLonga: "🌾 Fazenda à Venda – Região de Passos/MG 🌾\n\n📍 Localizada a apenas 3,5 km da cidade, com acesso fácil e rápido, essa propriedade é ideal para quem busca produtividade e excelente logística.\n\n📐 Área total: 28,7 hectares\n✅ Aproveitamento agrícola de aproximadamente 90%\n🌱 Excelente para lavoura branca, como soja, milho, feijão, entre outras culturas\n🌍 Solo fértil e topografia favorável à mecanização\n\nOportunidade única para quem deseja investir em uma propriedade de alto potencial produtivo, pertinho da cidade!\n💰Valor R$ 3.300.000,00\n\n#wdfazendas\n#fazendas\n#agronegocio\n#agroetudo\n#antigasfazendas" 
         },
         {
-            titulo: "Fazenda em Itaci - MG",
-            cidade: "itaci",
+            titulo: "Fazenda em Carmo do Rio Claro/Itaci - MG",
+            cidade: "carmo-do-rio-claro",
             descricao: "65 hectares",
             preco: "R$ 12.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1779712806/i651_h09aqx.jpg", 
