@@ -954,6 +954,22 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149925/WhatsApp_Image_2026-06-16_at_16.57.23_5_qn2tho.jpg"],
             cultura: "cafe",
             descricaoLonga: "🌿 Fazenda à Venda – Piumhi/MG 🌿\n\n📐 Área total: 122 hectares\n🌱 Cultivo: Especializada em frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 10.000.000,00\n📞 Contato para mais informações e agendamento de visita.",
+        },
+        {
+            titulo: "Fazenda em Passos - MG",
+            cidade: "passos",
+            descricao: "114 hectares",
+            preco: "R$ 7.500.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787161684/Captura_de_tela_2026-05-27_113658_pi5pbp.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161684/Captura_de_tela_2026-05-27_113723_jcmywx.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161684/Captura_de_tela_2026-05-27_114134_spzdwu.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161684/Captura_de_tela_2026-05-27_114112_ebcmkq.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161685/Captura_de_tela_2026-05-27_114155_bpiv21.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161685/Captura_de_tela_2026-05-27_114239_nfd1oh.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161685/Captura_de_tela_2026-05-27_114213_h02g3o.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161685/Captura_de_tela_2026-05-27_114316_fxaa4l.png"],
+            cultura: "fazenda",
+            descricaoLonga: "🔥 OPORTUNIDADE RARA EM PASSOS/MG – 114 HECTARES 🔥\n\nSe você procura uma fazenda pronta para produzir, bem estruturada e com grande potencial de valorização, essa é a escolha certa.\n\nEstamos falando de uma propriedade com 114 hectares, que une produtividade, estrutura completa e excelente localização.\n\n📍 Localização:\nMunicípio de Passos, na linha da Mumbuca – região valorizada e de fácil acesso.\n\n🌿 Uma fazenda que entrega resultado:\n\nÁrea ampla e muito bem distribuída\nExcelente para pecuária forte ou lavoura\nÁreas consolidadas, prontas para uso imediato\nRica em água, banhada pelo Rio São João 💧\nRepresa dentro da propriedade\nReserva legal e APP regularizadas\nCadastro Ambiental Rural (CAR) em dia\n\n🏗 Estrutura completa:\n\nBarracão de leite\nBarracão para carneiros\nBaias bem estruturadas\nÓtima sede com piscina – conforto e qualidade de vida no campo\n\n📈 Investimento inteligente:\nRegião com forte crescimento no agronegócio, ideal para quem busca produção com segurança, liquidez e valorização patrimonial.\n\n💰 Valor: R$ 7.500.000,00",
         }
     ];
 
