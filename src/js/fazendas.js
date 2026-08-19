@@ -973,7 +973,7 @@ function renderizarOsCards() {
         },
         {
             titulo: "Fazenda em Poços de Caldas - MG",
-            cidade: "pocos-de-caldas",
+            cidade: "poços-de-caldas",
             descricao: "177 alqueires",
             preco: "R$ 30.000.000,00",
             imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787162565/Captura_de_tela_2026-08-19_145544_ym3vnk.png",
