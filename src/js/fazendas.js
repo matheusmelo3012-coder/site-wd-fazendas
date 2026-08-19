@@ -926,6 +926,20 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.34_4_rbdkqi.jpg"],
             cultura: "frutas vermelhas",
             descricaoLonga: "🍓 Fazenda Produtiva de Frutas Vermelhas à Venda – Carvalhos/MG 🍇\n\nUma oportunidade única para investidores e empreendedores do setor agrícola! Esta propriedade é especializada no cultivo de frutas vermelhas, com infraestrutura completa e excelente localização.\n\n📐 Área total: 54 hectares\n🌱 Cultivo: Morangos, framboesas, amoras e outras frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 2.800.000,00\n📞 Contato para mais informações e agendamento de visita.",
+        },
+        {
+            titulo: "Fazenda em Muzambinho - MG",
+            cidade: "muzambinho",
+            descricao: "20 hectares",
+            preco: "R$ 3.500.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787148828/703914846_992452093364547_6521818918167499345_n_uatnvp.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148829/703953687_814621394831674_5507805546870627984_n_csd2na.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148829/703923518_2089975985258043_6559749347310735288_n_rivsmb.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148829/703953894_1507172431072988_5582869796276751349_n_so9fwr.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148828/703948084_1310309740477331_351037098521657163_n_ab0p2a.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148828/703914620_3112306462295389_3172057696465949919_n_vsy6sn.jpg"],
+            cultura: "cafe",
+            descricaoLonga: "🌿 Fazenda à Venda – Muzambinho/MG 🌿\n\n📐 Área total: 20 hectares\n🌱 Cultivo: Especializada em frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 3.500.000,00\n📞 Contato para mais informações e agendamento de visita.",
         }
     ];
 
