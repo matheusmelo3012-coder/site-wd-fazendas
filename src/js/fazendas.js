@@ -970,6 +970,27 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1787161685/Captura_de_tela_2026-05-27_114316_fxaa4l.png"],
             cultura: "fazenda",
             descricaoLonga: "🔥 OPORTUNIDADE RARA EM PASSOS/MG – 114 HECTARES 🔥\n\nSe você procura uma fazenda pronta para produzir, bem estruturada e com grande potencial de valorização, essa é a escolha certa.\n\nEstamos falando de uma propriedade com 114 hectares, que une produtividade, estrutura completa e excelente localização.\n\n📍 Localização:\nMunicípio de Passos, na linha da Mumbuca – região valorizada e de fácil acesso.\n\n🌿 Uma fazenda que entrega resultado:\n\nÁrea ampla e muito bem distribuída\nExcelente para pecuária forte ou lavoura\nÁreas consolidadas, prontas para uso imediato\nRica em água, banhada pelo Rio São João 💧\nRepresa dentro da propriedade\nReserva legal e APP regularizadas\nCadastro Ambiental Rural (CAR) em dia\n\n🏗 Estrutura completa:\n\nBarracão de leite\nBarracão para carneiros\nBaias bem estruturadas\nÓtima sede com piscina – conforto e qualidade de vida no campo\n\n📈 Investimento inteligente:\nRegião com forte crescimento no agronegócio, ideal para quem busca produção com segurança, liquidez e valorização patrimonial.\n\n💰 Valor: R$ 7.500.000,00",
+        },
+        {
+            titulo: "Fazenda em Poços de Caldas - MG",
+            cidade: "pocos-de-caldas",
+            descricao: "177 alqueires",
+            preco: "R$ 30.000.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787162565/Captura_de_tela_2026-08-19_145544_ym3vnk.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162567/Captura_de_tela_2026-08-19_145751_zbtbzx.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162567/Captura_de_tela_2026-08-19_145825_fwoyai.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162566/Captura_de_tela_2026-08-19_145601_rxlrxp.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162568/Captura_de_tela_2026-08-19_145808_g3tp71.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162566/Captura_de_tela_2026-08-19_145616_x48jr8.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162570/Captura_de_tela_2026-08-19_150014_ccvvve.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162570/Captura_de_tela_2026-08-19_145915_zdrbji.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162568/Captura_de_tela_2026-08-19_145857_bxxvzf.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162571/Captura_de_tela_2026-08-19_150032_bhsqk8.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162569/Captura_de_tela_2026-08-19_145930_gxs8zg.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787162569/Captura_de_tela_2026-08-19_145949_hgshmn.png",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787163165/Captura_de_tela_2026-08-19_145528_mqgeym.png"],
+            cultura: "cafe",
+            descricaoLonga: "🔥 OPORTUNIDADE EM POÇOS DE CALDAS/MG 🔥\n\nFazenda com 177 alqueires, excelente localização e grande potencial produtivo!\n\n📍 1,5 km de margem de rodovia\n🌿 Atualmente em pecuária\n💧 Duas represas\n🌱 Área para plantio de aproximadamente 8 alqueires\n🏡 Uma casa de colono\n🐂 Barracão com curral para gado\n\n💰 Valor: R$ 30.000.000,00\n\nUma propriedade completa, com ótima logística e pronta para produzir!",
         }
     ];
 
