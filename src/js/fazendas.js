@@ -912,6 +912,20 @@ function renderizarOsCards() {
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1779907548/po%C3%A7os3145_vzdrbw.jpg"],
             cultura: "cafe",
             descricaoLonga: "🌋 Fazenda à Venda – Região de Poços de Caldas/MG e São Sebastião da Grama/SP\n\n📐 Área: 314,77 ha (130 alqueires)\n☕ Produção: 180 mil pés de café no cinturão vulcânico — café de alto valor\n🚜 Potencial: até 500 mil pés mecanizados\n🏡 Estrutura completa: casa sede, casas de funcionários, lavador, despolpador, terreiro suspenso, secador, tulhas, oficina e escritório\n📍 Localização privilegiada\n💰 Valor: R$ 30.000.000\n📞 Estuda oferta",
+        },
+        {
+            titulo: "Fazenda Produtiva de Frutas Vermelhas em Carvalhos - MG",
+            cidade: "carvalhos",
+            descricao: "54 hectares",
+            preco: "R$ 2.800.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.34_1_xgk0w7.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.31_1_jnylp6.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.30_rqvwy8.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.31_zyjx4p.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.34_2_vwuapv.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787147858/WhatsApp_Image_2026-07-03_at_08.46.34_4_rbdkqi.jpg"],
+            cultura: "frutas vermelhas",
+            descricaoLonga: "🍓 Fazenda Produtiva de Frutas Vermelhas à Venda – Carvalhos/MG 🍇\n\nUma oportunidade única para investidores e empreendedores do setor agrícola! Esta propriedade é especializada no cultivo de frutas vermelhas, com infraestrutura completa e excelente localização.\n\n📐 Área total: 54 hectares\n🌱 Cultivo: Morangos, framboesas, amoras e outras frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 2.800.000,00\n📞 Contato para mais informações e agendamento de visita.",
         }
     ];
 
