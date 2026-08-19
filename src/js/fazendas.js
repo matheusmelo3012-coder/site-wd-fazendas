@@ -940,6 +940,20 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1787148828/703914620_3112306462295389_3172057696465949919_n_vsy6sn.jpg"],
             cultura: "cafe",
             descricaoLonga: "🌿 Fazenda à Venda – Muzambinho/MG 🌿\n\n📐 Área total: 20 hectares\n🌱 Cultivo: Especializada em frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 3.500.000,00\n📞 Contato para mais informações e agendamento de visita.",
+        },
+        {
+            titulo: "Fazenda em Piumhi - MG",
+            cidade: "piumhi",
+            descricao: "122 hectares",
+            preco: "R$ 10.000.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787149904/WhatsApp_Image_2026-06-16_at_16.57.23_1_npdj0k.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149905/WhatsApp_Image_2026-06-16_at_16.57.23_2_psniwo.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149905/WhatsApp_Image_2026-06-16_at_16.57.23_3_pilol2.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149905/WhatsApp_Image_2026-06-16_at_16.57.23_kunolv.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149905/WhatsApp_Image_2026-06-16_at_16.57.23_4_eujodw.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787149925/WhatsApp_Image_2026-06-16_at_16.57.23_5_qn2tho.jpg"],
+            cultura: "cafe",
+            descricaoLonga: "🌿 Fazenda à Venda – Piumhi/MG 🌿\n\n📐 Área total: 122 hectares\n🌱 Cultivo: Especializada em frutas vermelhas\n🚜 Potencial produtivo: Alta produtividade com técnicas modernas de cultivo\n🏡 Estrutura: Casa sede, casas para funcionários, estufas, sistema de irrigação eficiente e galpões para armazenamento\n📍 Localização estratégica: Fácil acesso a mercados e centros de distribuição\n\n💰 Valor: R$ 10.000.000,00\n📞 Contato para mais informações e agendamento de visita.",
         }
     ];
 
