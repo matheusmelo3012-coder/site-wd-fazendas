@@ -991,6 +991,28 @@ function renderizarOsCards() {
                         "https://res.cloudinary.com/dtgqktctl/image/upload/v1787163165/Captura_de_tela_2026-08-19_145528_mqgeym.png"],
             cultura: "cafe",
             descricaoLonga: "🔥 OPORTUNIDADE EM POÇOS DE CALDAS/MG 🔥\n\nFazenda com 177 alqueires, excelente localização e grande potencial produtivo!\n\n📍 1,5 km de margem de rodovia\n🌿 Atualmente em pecuária\n💧 Duas represas\n🌱 Área para plantio de aproximadamente 8 alqueires\n🏡 Uma casa de colono\n🐂 Barracão com curral para gado\n\n💰 Valor: R$ 30.000.000,00\n\nUma propriedade completa, com ótima logística e pronta para produzir!",
+        },
+        {
+            titulo: "Fazenda em Fortaleza de Minas - MG",
+            cidade: "fortaleza-de-minas",
+            descricao: "590 hectares",
+            preco: "R$ 42.000.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787749145/1_dxcxp1.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749145/2_nh4nhs.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749145/3_yk4ucx.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/4_r9kihn.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/5_doih2f.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/6_lji0jh.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/7_iqz60j.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/8_g92fmq.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/9_gcusph.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749145/10_luquyx.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749145/11_g9nwgl.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/12_p7sjvn.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/13_igutax.jpg", 
+                "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/14_qh1quf.jpg"] ,
+            cultura: "dupla aptidao",
+            descricaoLonga: "🌿☕ **FAZENDA À VENDA – 590 HECTARES – FORTALEZA DE MINAS/MG** ☕🌿\n\n📍 **Localização: Fortaleza de Minas – MG**\n\n💰 **Valor: R$ 42.000.000,00**\n\nExcelente oportunidade para quem busca uma propriedade de grande porte, altamente produtiva e com forte potencial para expansão agrícola.\n\n📐 **Área total: 590 hectares**\n\n🌱 **Potencial produtivo**\n✅ 250 hectares já plantados\n✅ Mais 60 hectares prontos para abertura\n✅ Capacidade estimada para aproximadamente **1,5 milhão de pés de café** ou implantação de outras culturas\n✅ Área totalmente mecanizável\n⛰️ Altitude privilegiada de aproximadamente **1.160 metros**\n\n💧 **Recursos hídricos**\n✅ Fazenda rica em água\n✅ Represa\n✅ Cachoeira\n✅ Excelente disponibilidade hídrica para exploração agrícola e pecuária\n\n🐂 **Pecuária e áreas naturais**\n✅ Pastagens para criação de gado\n✅ Áreas de reserva preservadas\n\n🏡 **Estrutura completa**\n✅ 5 barracões\n✅ Casa sede\n✅ 3 casas de colônia\n\n✨ Uma propriedade diferenciada, reunindo **altitude, mecanização, disponibilidade de água e grande potencial para cafeicultura**, agricultura e pecuária.\n\n📲 Entre em contato para mais informações e agendamento de visita.\n\n#WDFazendas #FazendaAVenda #FortalezaDeMinas #SulDeMinas #Cafeicultura #FazendaDeCafe #Agronegocio #Agro #ImovelRural #InvestimentoRural #CafeDoBrasil",
         }
     ];
 
