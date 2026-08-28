@@ -1015,7 +1015,7 @@ function renderizarOsCards() {
             descricaoLonga: "🌿☕ **FAZENDA À VENDA – 590 HECTARES – FORTALEZA DE MINAS/MG** ☕🌿\n\n📍 **Localização: Fortaleza de Minas – MG**\n\n💰 **Valor: R$ 42.000.000,00**\n\nExcelente oportunidade para quem busca uma propriedade de grande porte, altamente produtiva e com forte potencial para expansão agrícola.\n\n📐 **Área total: 590 hectares**\n\n🌱 **Potencial produtivo**\n✅ 250 hectares já plantados\n✅ Mais 60 hectares prontos para abertura\n✅ Capacidade estimada para aproximadamente **1,5 milhão de pés de café** ou implantação de outras culturas\n✅ Área totalmente mecanizável\n⛰️ Altitude privilegiada de aproximadamente **1.160 metros**\n\n💧 **Recursos hídricos**\n✅ Fazenda rica em água\n✅ Represa\n✅ Cachoeira\n✅ Excelente disponibilidade hídrica para exploração agrícola e pecuária\n\n🐂 **Pecuária e áreas naturais**\n✅ Pastagens para criação de gado\n✅ Áreas de reserva preservadas\n\n🏡 **Estrutura completa**\n✅ 5 barracões\n✅ Casa sede\n✅ 3 casas de colônia\n\n✨ Uma propriedade diferenciada, reunindo **altitude, mecanização, disponibilidade de água e grande potencial para cafeicultura**, agricultura e pecuária.\n\n📲 Entre em contato para mais informações e agendamento de visita.\n\n#WDFazendas #FazendaAVenda #FortalezaDeMinas #SulDeMinas #Cafeicultura #FazendaDeCafe #Agronegocio #Agro #ImovelRural #InvestimentoRural #CafeDoBrasil",
         },
         {
-            titulo: "Fazenda em Fortaleza de Minas - MG",
+            titulo: "Fazenda entre Muzambinho-MG e Caconde-SP",
             cidade: "muzambinho",
             descricao: "46 hectares",
             preco: "R$ 3.300.000,00",
