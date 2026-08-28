@@ -1013,6 +1013,26 @@ function renderizarOsCards() {
                 "https://res.cloudinary.com/dtgqktctl/image/upload/v1787749146/14_qh1quf.jpg"] ,
             cultura: "dupla aptidao",
             descricaoLonga: "🌿☕ **FAZENDA À VENDA – 590 HECTARES – FORTALEZA DE MINAS/MG** ☕🌿\n\n📍 **Localização: Fortaleza de Minas – MG**\n\n💰 **Valor: R$ 42.000.000,00**\n\nExcelente oportunidade para quem busca uma propriedade de grande porte, altamente produtiva e com forte potencial para expansão agrícola.\n\n📐 **Área total: 590 hectares**\n\n🌱 **Potencial produtivo**\n✅ 250 hectares já plantados\n✅ Mais 60 hectares prontos para abertura\n✅ Capacidade estimada para aproximadamente **1,5 milhão de pés de café** ou implantação de outras culturas\n✅ Área totalmente mecanizável\n⛰️ Altitude privilegiada de aproximadamente **1.160 metros**\n\n💧 **Recursos hídricos**\n✅ Fazenda rica em água\n✅ Represa\n✅ Cachoeira\n✅ Excelente disponibilidade hídrica para exploração agrícola e pecuária\n\n🐂 **Pecuária e áreas naturais**\n✅ Pastagens para criação de gado\n✅ Áreas de reserva preservadas\n\n🏡 **Estrutura completa**\n✅ 5 barracões\n✅ Casa sede\n✅ 3 casas de colônia\n\n✨ Uma propriedade diferenciada, reunindo **altitude, mecanização, disponibilidade de água e grande potencial para cafeicultura**, agricultura e pecuária.\n\n📲 Entre em contato para mais informações e agendamento de visita.\n\n#WDFazendas #FazendaAVenda #FortalezaDeMinas #SulDeMinas #Cafeicultura #FazendaDeCafe #Agronegocio #Agro #ImovelRural #InvestimentoRural #CafeDoBrasil",
+        },
+        {
+            titulo: "Fazenda em Fortaleza de Minas - MG",
+            cidade: "muzambinho",
+            descricao: "46 hectares",
+            preco: "R$ 3.300.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_10_50_12_1_FotoExtra_07_elewi2.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_10_50_12_1_FotoExtra_08_r9hf5q.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_02_Foto_02_kjdyli.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_02_Foto_01_zi7bxz.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_10_50_12_1_FotoExtra_01_yjp9r6.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925943/Video_10_50_12_1_FotoExtra_06_r1xe71.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_10_50_12_1_FotoExtra_02_tyczcc.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925943/Video_10_50_12_1_FotoExtra_05_legu8o.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925943/Video_10_50_12_1_FotoExtra_10_lortmp.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925943/Video_10_50_12_1_FotoExtra_03_bb68rl.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925942/Video_10_50_12_1_FotoExtra_09_hmroe0.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1787925943/WhatsApp_Image_2026-08-28_at_10.50.15_3_izsw1l.jpg"] ,
+            cultura: "plantio",
+            descricaoLonga: "🌿☕ FAZENDA À VENDA – ENTRE MUZAMBINHO-MG E CACONDE-SP ☕🌿\n\nExcelente oportunidade para quem busca uma propriedade rural com potencial para produção, renda e valorização, em uma região tradicionalmente reconhecida pela cafeicultura.\n\n📐 Área total: 46 hectares\n\n⛰️ Altitude:\nAproximadamente 1.050 metros.\n\n🚜 Acesso:\nEstrada de terra entre Muzambinho e Caconde/MG.\n\n🌱 Topografia:\nTerras onduladas, com partes altas e baixas.\n\n💧 Recursos hídricos:\nBoa disponibilidade de água na região.\n\n☕ Aptidão:\nPropriedade apta para lavoura de café.\n\n🚧 Estrutura:\nPropriedade cercada.\n\n💰 Valor de venda: R$ 3.300.000,00\n\n📞 Entre em contato e agende sua visita:\nRafael Mizael – (35) 99759-8377\nRogério Furtuoso – (35) 99981-1618\nWilliam Cândido – (35) 99860-1700",
         }
     ];
 

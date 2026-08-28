@@ -1,0 +1,13 @@
+Resumo do "Modo de Preparo" para os próximos dias:
+Alterou o código? A sequência mágica é sempre esta no terminal:
+
+1 - git add . (para preparar o código bruto)
+
+2 - git commit -m "minha alteração" (para carimbar o histórico)
+
+3 - git push origin main (para salvar o código bruto na nuvem)
+
+4 - npm run deploy (para atualizar o site no ar)
+
+
+
