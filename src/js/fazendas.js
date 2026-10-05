@@ -1060,6 +1060,41 @@ function renderizarOsCards() {
             ],
             cultura: "sitio",
             descricaoLonga: "🌿 **SÍTIO À VENDA – ENTRE ITAÚ DE MINAS E SÃO SEBASTIÃO DO PARAÍSO/MG** 🌿\n\nExcelente propriedade rural com aproximadamente **4 alqueires**, muito bem estruturada, ideal para quem busca conforto, espaço e uma propriedade pronta para atividade pecuária, especialmente produção de leite.\n\n💰 **Valor: R$ 2.450.000,00**\n\n🏡 **Casa sede**\n• 3 quartos, sendo 1 suíte\n• Banheiro social\n• Sala ampla\n• Cozinha grande\n• Área de churrasco com banheiro\n• Estacionamento coberto\n• Mais 2 suítes independentes próximas à sede\n\n🏠 **Casa de caseiro**\n• 3 quartos\n• 2 banheiros\n\n⛪ **Capela ampla**, proporcionando um espaço especial dentro da propriedade.\n\n🐄 **Estrutura completa para pecuária leiteira**\n• Barracão de ordenha\n• 2 salas de espera para o gado\n• Sala para tanque de leite\n• Cozinha de apoio\n• Farmácia\n• Barracão para alimentação do gado\n• Bezerreiro\n• Baias\n• Casa de ração\n• Casa de ferramentas\n\n🌾 **Outras estruturas**\n• Chiqueiro\n• Galinheiro\n• Varandas cobertas para acomodação de máquinas e implementos\n• Barracão coberto para armazenamento de diversos materiais e produtos\n\nUma propriedade com **excelente estrutura residencial e produtiva**, oferecendo praticidade para quem deseja trabalhar com pecuária, principalmente leiteira, sem abrir mão de conforto para toda a família.\n\n📍 **Localização privilegiada entre Itaú de Minas e São Sebastião do Paraíso/MG.**\n\n",
+        },
+        {
+            titulo: "Sítio",
+            cidade: "paraiso",
+            descricao: "11,8 Alqueires",
+            preco: "R$ 650.000,00 por alqueire",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1791204870/11_8_ALQ_SSP_1_n0qzgq.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204870/11_8_ALQ_SSP_2_qayurd.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204871/11_8_ALQ_SSP_3_y2sfsv.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204870/11_8_ALQ_SSP_4_f8ygzn.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204871/11_8_ALQ_SSP_5_acoera.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204870/11_8_ALQ_SSP_6_zpvhjk.jpg"] ,
+            cultura: "sitio",
+            descricaoLonga: "🌱 SÍTIO À VENDA – REGIÃO DOS PIMENTAS\n📍 São Sebastião do Paraíso/MG\n\nExcelente oportunidade para investimento!\n\n🔹 11,8 alqueires\n☕ 30.000 pés de café em produção\n☕ 30.000 pés de café com 2 anos\n🌱 Área com possibilidade de plantio de mais 60.000 pés de café\n🏠 Casa de caseiro\n🏚️ Barracão\n🐄 Curral\n🛣️ Localização privilegiada, bem próximo à rodovia\n\n💰 R$ 650.000 por alqueire\n🔄 Estuda permuta",
+        },
+        {
+            titulo: "Sítio",
+            cidade: "paraiso",
+            descricao: "13 Alqueires",
+            preco: "R$ 2.800.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_1_zu77aq.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204888/13_ALQ_SSP_2_osjdim.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_3_sh5tgf.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204888/13_ALQ_SSP_4_fofzf7.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_5_xk12vv.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_6_nefl4z.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_7_sqr7dk.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_8_d1kvdt.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204889/13_ALQ_SSP_9_eyutzt.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204925/13_ALQ_SSP_10_nsxu1w.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791204953/13_ALQ_SSP_11_uyykuu.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1791205167/13_ALQ_SSP_12_w0cwgv.jpg"
+            ],
+            cultura: "sitio",
+            descricaoLonga: "🌱 SÍTIO À VENDA – SÃO SEBASTIÃO DO PARAÍSO/MG\n\n📍 Localizado em uma das tradicionais regiões cafeeiras do Sul de Minas.\n🚜 13 alqueires\n💧 Rio do Fundo passa pela propriedade\n🏞️ Represa\n🏠 Casa de excelente qualidade\n🏊 Piscina\n🍖 Área gourmet\n🐂 Curral\n🚜 Barracão\n\n📍 Apenas 7 km do asfalto + 5 km de estrada de terra.\n\nExcelente propriedade para quem busca produção agrícola, lazer e investimento em uma região reconhecida pela força da cafeicultura. São Sebastião do Paraíso é tradicionalmente um importante polo cafeeiro do Sudoeste de Minas.\n\n💰 R$ 2.800.000,00\n\n🔄 Estuda troca por imóveis em Ribeirão Preto/SP."
         }
     ];
 
