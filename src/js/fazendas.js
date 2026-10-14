@@ -1095,6 +1095,44 @@ function renderizarOsCards() {
             ],
             cultura: "sitio",
             descricaoLonga: "🌱 SÍTIO À VENDA – SÃO SEBASTIÃO DO PARAÍSO/MG\n\n📍 Localizado em uma das tradicionais regiões cafeeiras do Sul de Minas.\n🚜 13 alqueires\n💧 Rio do Fundo passa pela propriedade\n🏞️ Represa\n🏠 Casa de excelente qualidade\n🏊 Piscina\n🍖 Área gourmet\n🐂 Curral\n🚜 Barracão\n\n📍 Apenas 7 km do asfalto + 5 km de estrada de terra.\n\nExcelente propriedade para quem busca produção agrícola, lazer e investimento em uma região reconhecida pela força da cafeicultura. São Sebastião do Paraíso é tradicionalmente um importante polo cafeeiro do Sudoeste de Minas.\n\n💰 R$ 2.800.000,00\n\n🔄 Estuda troca por imóveis em Ribeirão Preto/SP."
+        },
+        {
+            titulo: "Sítio em Alpinópolis - MG",
+            cidade: "alpinopolis",
+            descricao: "10 Alqueires",
+            preco: "R$ 3.600.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_1_s1hikd.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_2_un1z9d.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_3_tr3i5i.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015772/10_alq_alp_4_r5unhp.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_5_vapd6r.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015772/10_alq_alp_6_hdfgei.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015772/10_alq_alp_7_hkpcre.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015772/10_alq_alp_8_unvcpi.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_9_jleriv.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792015771/10_alq_alp_10_vjaziu.jpg"
+            ],
+            cultura: "sitio",
+            descricaoLonga: "Excelente propriedade rural à venda em Alpinópolis/MG, com 10 alqueires de área total, localizada a apenas 3 km da cidade, às margens da rodovia, com 200 metros de frente para o asfalto. Possui 10 hectares destinados ao plantio, 5 hectares de pastagem, excelente casa sede com 2 quartos, ambos suítes, 4 nascentes e poço artesiano jorrante. Conta com estrutura completa para produção leiteira, instalações com capacidade para 40 vacas e sistema de ordenha para 12 vacas. Propriedade com ótima disponibilidade de água, fácil acesso, excelente infraestrutura e grande potencial para atividades leiteiras e agrícolas. Valor: R$ 3.600.000,00. Estuda troca como parte do pagamento e oferece condições facilitadas de pagamento mediante negociação. Excelente oportunidade de investimento no Sul de Minas Gerais."
+        },
+        {
+            titulo: "Fazenda em Formiga - MG",
+            cidade: "formiga",
+            descricao: "170 hectares",
+            preco: "R$ 6.500.000,00",
+            imagens: ["https://res.cloudinary.com/dtgqktctl/image/upload/v1792016683/170_ha_For_1_he50ba.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016683/170_ha_For_2_jpz9hk.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_3_gnieja.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_4_pi1kyg.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_5_yldfov.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_6_phkyp8.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_7_lyxuek.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_8_hrh4vq.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_9_noswte.jpg",
+                        "https://res.cloudinary.com/dtgqktctl/image/upload/v1792016684/170_ha_For_10_jajd1v.jpg"
+            ],
+            cultura: "plantio",
+            descricaoLonga: "Excelente fazenda à venda em Formiga/MG, com 170 hectares de área total, localizada a apenas 15 km da cidade, sendo 10 km de asfalto e 5 km de estrada de terra. Propriedade com terras de ótima qualidade, aptas para cultivo de soja, café, milho, criação de gado e diversas outras atividades agropecuárias. Possui altitude aproximada de 950 metros, topografia 70% plana, favorecendo a mecanização e o aproveitamento agrícola, além de dois pequenos rios que passam pelas divisas da propriedade. Conta ainda com 60 hectares cultivados com eucalipto. Fazenda com excelente potencial agrícola, pecuário e florestal, ideal para produção e investimento. Valor: R$ 6.500.000,00. Excelente oportunidade para quem busca uma propriedade rural produtiva e bem localizada na região de Formiga/MG."
         }
     ];
 
